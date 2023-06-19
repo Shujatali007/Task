@@ -1,0 +1,7 @@
+dash @ file:///home/conda/feedstock_root/build_artifacts/dash_1685954796141/work
+dash-core-components @ file:///home/conda/feedstock_root/build_artifacts/dash-core-components_1645162191927/work
+dash-html-components==2.0.0
+dash-table==5.0.0
+pandas @ file:///C:/ci/pandas_1641461312795/work
+plotly @ file:///opt/conda/envs/env/conda-bld/plotly_1686236220378/work/packages/python/plotly/dist/plotly-5.15.0.tar.gz
+plotly-express==0.4.1
